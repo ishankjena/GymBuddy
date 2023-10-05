@@ -7,6 +7,7 @@ An assistive tool for amateur fitness enthusiasts.
 * Timer
 
 Built using: MediaPipe, OpenCV, Tkinter and Python.
+_______________________________________________________
 
 How to run?
 1. Install the dependencies.
